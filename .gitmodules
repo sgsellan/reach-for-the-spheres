@@ -2,3 +2,6 @@
 	path = gpytoolbox
 	url = https://github.com/sgsellan/gpytoolbox.git
 	branch = mesh-generation
+[submodule "ext/gpytoolbox"]
+	path = ext/gpytoolbox
+	url = https://github.com/sgsellan/gpytoolbox.git

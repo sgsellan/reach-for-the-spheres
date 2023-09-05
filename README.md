@@ -8,3 +8,4 @@ The code therein is meant to reproduce the results from the paper, and not as an
 For an up-to-date implementation of the Reach For the Spheres algorithm, please consult the current version of _sdf_flow_ in gpytoolbox.
 
 To run the code in this repository, please use Python 3.9 and compile gpytoolbox (as referenced as a submodule) yourself.
+Please run it in the root directory.
