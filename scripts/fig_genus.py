@@ -1,3 +1,5 @@
+# This replicates Fig. 13 in our paper "Reach for the Spheres: Tangency-Aware Surface Reconstruction of SDFs"
+
 # Thanks to our context.py file, we only need this in the header:
 from context import * 
 
