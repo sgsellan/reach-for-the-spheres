@@ -1,3 +1,5 @@
+# This was run on macOS.
+
 # Thanks to our context.py file, we only need this in the header:
 from context import *
 
