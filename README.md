@@ -10,3 +10,5 @@ For an up-to-date implementation of the Reach For the Spheres algorithm, please 
 To run the code in this repository, please use Python 3.10 and compile gpytoolbox (as referenced 
 as a submodule) yourself in Release mode.
 Please run it in the root directory.
+
+We are very grateful to Abhishek Madan, Chenxi Liu, Sarah Kushner, Selena Ling, and Zoë Marschner for making sure this code compiles on as many machines as possible.
